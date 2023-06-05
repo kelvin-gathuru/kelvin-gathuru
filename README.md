@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvin-gathuru&show_icons=true&locale=en&layout=compact" alt="kelvin-gathuru" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvin-gathuru&show_icons=true&locale=en" width="500px" height="500px" alt="kelvin-gathuru"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvin-gathuru&show_icons=true&locale=en" alt="kelvin-gathuru"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin-gathuru&" alt="kelvin-gathuru" /></p>
 
