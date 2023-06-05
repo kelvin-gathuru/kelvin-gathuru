@@ -1,5 +1,5 @@
 <a href="https://kelvintec.info">
-  <img src="http://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif" style="height: 100px;" alt="MasterHead">
+  <img src="http://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif" style="height: 100px; width: 800px" alt="MasterHead">
 </a>
 <h1 align="center">Hi 👋, I'm Kelvin Gathuru</h1>
 <h3 align="center">A skilled software developer from Nairobi, Kenya, with expertise in various programming languages and a strong passion for my work. With a focus on continuous learning and professional growth, I am dedicated to delivering high-quality solutions in the field of software development.</h3>
