@@ -1,4 +1,6 @@
-[![MasterHead](https://www.davidjohncoleman.com/wp-content/uploads/2017/03/binary-computer.gif | width=100%)](https://kelvintec.info)
+<a href="https://kelvintec.info">
+  <img src="https://www.davidjohncoleman.com/wp-content/uploads/2017/03/binary-computer.gif" style="width: 100%;" alt="MasterHead">
+</a>
 <h1 align="center">Hi 👋, I'm Kelvin Gathuru</h1>
 <h3 align="center">A skilled software developer from Nairobi, Kenya, with expertise in various programming languages and a strong passion for my work. With a focus on continuous learning and professional growth, I am dedicated to delivering high-quality solutions in the field of software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
