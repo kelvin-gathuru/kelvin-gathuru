@@ -12,15 +12,13 @@
 
 - 🌱 I’m currently learning **Vue.Js**
 
-- 👨‍💻 All of my projects are available at [kelvintec.info](kelvintec.info)
-
-- 📝 I regularly write articles on [qompscience.com](qompscience.com)
+- 👨‍💻 All of my projects are available at [https://kelvin-info.000webhostapp.com/](https://kelvin-info.000webhostapp.com/)
 
 - 💬 Ask me about **LAMP Stack**
 
 - 📫 How to reach me **wambuikelvin364@gmail.com**
 
-- 📄 Know about my experiences [kelvintec.info/resume](kelvintec.info/resume)
+- 📄 Know about my experiences [https://kelvin-info.000webhostapp.com/resume](https://kelvin-info.000webhostapp.com/resume)
 
 - ⚡ Fun fact **I have a knack for finding creative and elegant solutions to complex coding problems, often surprising my colleagues with my innovative approaches and out-of-the-box thinking.**
 
